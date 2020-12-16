@@ -9,23 +9,23 @@
 
 ## Installation <a name="installation"></a>
 
-scikit-learn</a>
-seaborn</a>
-matplotlib</a>
+Python3.x with other packages in requirements.txt. Run the following command to install.
+```bash
+$ pip install -r requirements.txt
+```
 
 ## Project Motivation<a name="motivation"></a>
 
-For this project, how to make your place help you earn extra money:
+Taipei is the capital of Taiwan. With Taipei 101, surrounding mountains, and full of entertainment facilities, Taipei has the ability to attract more tourists compared to other cities in Taiwan. Plus, because of the period of coronavirus pandemic, people are not allowed to go abroad for traveling. Therefore, the number of tourists in Taipei during holidays reaches an all-time high. So, this project is aimed to help people who want to make their places earn extra money. Before being a host, people may have the following questions below:
 
-1. Is your location suitable to host on Airbnb??
+1. Is your location suitable to host on Airbnb?
 2. What type of property you can earn from it?
 3. What other factors may help you make a decision on the price for your place?
 
 ## File Descriptions <a name="files"></a>
 
-There are 3 notebooks available here to showcase work related to the above questions.  Each of the notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual steps.  
-
-There is an additional `.py` file that runs the necessary code to obtain the final model used to predict salary.
+1. price_prediction.ipynb is the only file walking through individual steps to answer the questions above.
+2. listing.csv is the dataset used for this project.
 
 ## Results<a name="results"></a>
 
@@ -33,5 +33,7 @@ The findings of this project have been posted on my medium [here](https://chunfa
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Thanks to the data from [Inside Airbnb](http://insideairbnb.com/get-the-data.html) allowing me to finish this project. 
+Thanks to the data from [Inside Airbnb](http://insideairbnb.com/get-the-data.html) allowing me to do the analysis for this project. 
+
+Thanks to the peer's posts on Udacity's chat to give me ideas. 
 
