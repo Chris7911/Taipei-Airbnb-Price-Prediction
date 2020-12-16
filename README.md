@@ -9,7 +9,7 @@
 
 ## Installation <a name="installation"></a>
 
-Python3.x with other packages in requirements.txt. Run the following command to install.
+Python3.x with other packages in [requirements.txt](https://github.com/Chris7911/Taipei-Airbnb-Price-Prediction/blob/master/requirements.txt). Run the following command to install.
 ```bash
 $ pip install -r requirements.txt
 ```
@@ -24,8 +24,8 @@ Taipei is the capital of Taiwan. With Taipei 101, surrounding mountains, and ful
 
 ## File Descriptions <a name="files"></a>
 
-1. price_prediction.ipynb is the only file walking through individual steps to answer the questions above.
-2. listing.csv is the dataset used for this project.
+1. [price_prediction.ipynb](https://github.com/Chris7911/Taipei-Airbnb-Price-Prediction/blob/master/price_prediction.ipynb) is the only file walking through individual steps to answer the questions above.
+2. [listing.csv](https://github.com/Chris7911/Taipei-Airbnb-Price-Prediction/blob/master/listings.csv) is the dataset used for this project.
 
 ## Results<a name="results"></a>
 
